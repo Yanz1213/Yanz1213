@@ -4,11 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Launchpad
-- 🌱 I’m currently learning CS
-- 👯 I’m looking to collaborate on IDK
-- 🤔 I’m looking for help with github
-- 📫 How to reach me: call me
+- 🔭 I’m currently in UofA Majoring in Com Sci
 - 😄 Pronouns:he
-- ⚡ Fun fact: im 100kg
 
